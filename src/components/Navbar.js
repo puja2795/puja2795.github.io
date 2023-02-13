@@ -2,7 +2,14 @@ import React, { useState } from "react";
 import logo from "../logo-portfolio.png";
 
 export default function Navbar() {
-  const navLinks = ["Home", "About Me", "Skills", "Projects", "Contact"];
+  const navLinks = [
+    { name: "Home", class: "nav-link home" },
+    { name: "About Me", class: "nav-link about" },
+    { name: "Skills", class: "nav-link skills" },
+    { name: "Projects", class: "nav-link projects" },
+    { name: "Contact", class: "nav-link contact" },
+  ];
+
   const [show, setShow] = useState(false);
 
   return (
@@ -62,8 +69,11 @@ export default function Navbar() {
         <div className="md:flex hidden sm:gap-10 md:gap-10 lg:gap-14 xl:gap-16 ml-auto my-auto">
           {navLinks.map((el, ind) => {
             return (
-              <h1 key={ind} className="font-medium md:text-sm text-lg my-auto">
-                {el}
+              <h1
+                key={ind}
+                className={`font-medium md:text-sm text-lg my-auto ${el.class}`}
+              >
+                {el.name}
               </h1>
             );
           })}
@@ -94,7 +104,7 @@ export default function Navbar() {
                 key={ind}
                 className="font-medium md:text-sm text-lg bg-cyan-600 text-white border border-slate-200 opacity-50"
               >
-                {el}
+                {el.name}
               </h1>
             );
           })}
