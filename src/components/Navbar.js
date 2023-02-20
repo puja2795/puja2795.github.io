@@ -77,7 +77,7 @@ export default function Navbar() {
               </h1>
             );
           })}
-          <button className="flex gap-2 bg-cyan-600 hover:bg-cyan-500 text-white font-bold py-2 md:py-1 px-4 rounded md:text-sm md:h-8 ">
+          <button className="flex gap-2 bg-cyan-600 hover:bg-cyan-500 text-white font-bold py-2 md:py-1 px-4 rounded md:text-sm md:h-8 nav-link resume">
             Resume
             <svg
               xmlns="http://www.w3.org/2000/svg"

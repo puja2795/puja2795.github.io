@@ -18,10 +18,18 @@ export default function Home() {
             </p>
           </div>
           <div className="flex gap-6">
-            <p className="lg:text-7xl md:text-5xl text-4xl">Pujarini Sahoo</p>
+            <p
+              className="lg:text-7xl md:text-5xl text-4xl"
+              id="user-detail-name"
+            >
+              Pujarini Sahoo
+            </p>
           </div>
           <div className="pl-2">
-            <p className="lg:text-lg md:text-md text-sm text-cyan-200 py-10 w-[70%]">
+            <p
+              className="lg:text-lg md:text-md text-sm text-cyan-200 py-10 w-[70%]"
+              id="user-detail-intro"
+            >
               Full Stack Web Developer capable of writing production-ready code
               using ReactJS, HTML, CSS, and Chakra UI on the front end, NodeJS,
               and Express on the backend to build single-page applications.
@@ -40,8 +48,8 @@ export default function Home() {
             </button>
           </div>
         </div>
-        <div className="ml-auto w-4/12">
-          <img src={photo} height="400px" alt="profile" />
+        <div className="ml-auto w-4/12 ">
+          <img className="home-img" src={photo} height="400px" alt="profile" />
         </div>
       </div>
     </>
