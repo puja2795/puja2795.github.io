@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51a672f5.css",
-    "main.js": "/static/js/main.63c350e0.js",
+    "main.css": "/static/css/main.8d58e06f.css",
+    "main.js": "/static/js/main.506a1ff4.js",
     "static/js/787.a2bb20d5.chunk.js": "/static/js/787.a2bb20d5.chunk.js",
     "static/media/cult-fit.png": "/static/media/cult-fit.6be010c0d89274ba6fba.png",
     "static/media/photo11.png": "/static/media/photo11.6aa00109852391cf3e33.png",
@@ -9,6 +9,7 @@
     "static/media/desktime.png": "/static/media/desktime.01f1468e1ad1f4950904.png",
     "static/media/Pujarini_Sahoo_Resume.pdf": "/static/media/Pujarini_Sahoo_Resume.ee0d6b2e9e505156211e.pdf",
     "static/media/coding.png": "/static/media/coding.534f5f5036132c7de25c.png",
+    "static/media/industry-buying.png": "/static/media/industry-buying.daa885663267503f84a1.png",
     "static/media/ts.png": "/static/media/ts.7b64d9ca208b9c3f7055.png",
     "static/media/tailwind.png": "/static/media/tailwind.8f03e0a31e494b7425bf.png",
     "static/media/reactjs.svg": "/static/media/reactjs.e7574af26628c8d8cc52d64e015eb898.svg",
@@ -22,12 +23,12 @@
     "index.html": "/index.html",
     "static/media/css3.svg": "/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/html-5.svg": "/static/media/html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
-    "main.51a672f5.css.map": "/static/css/main.51a672f5.css.map",
-    "main.63c350e0.js.map": "/static/js/main.63c350e0.js.map",
+    "main.8d58e06f.css.map": "/static/css/main.8d58e06f.css.map",
+    "main.506a1ff4.js.map": "/static/js/main.506a1ff4.js.map",
     "787.a2bb20d5.chunk.js.map": "/static/js/787.a2bb20d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51a672f5.css",
-    "static/js/main.63c350e0.js"
+    "static/css/main.8d58e06f.css",
+    "static/js/main.506a1ff4.js"
   ]
 }
