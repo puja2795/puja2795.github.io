@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.cc1ecb4f.css",
-    "main.js": "/static/js/main.41424333.js",
+    "main.js": "/static/js/main.4b6cc2da.js",
     "static/js/787.a2bb20d5.chunk.js": "/static/js/787.a2bb20d5.chunk.js",
     "static/media/cult-fit.png": "/static/media/cult-fit.6be010c0d89274ba6fba.png",
     "static/media/jio-clone.png": "/static/media/jio-clone.d030040ba7f6900afbf8.png",
-    "static/media/photo11.png": "/static/media/photo11.837cd4079bcdfbe72705.png",
     "static/media/desktime.png": "/static/media/desktime.01f1468e1ad1f4950904.png",
     "static/media/PUJARINI-SAHOO-Resume.pdf": "/static/media/PUJARINI-SAHOO-Resume.5901368b032888f55e06.pdf",
+    "static/media/photo.jpg": "/static/media/photo.67c02dbcd7d1dc13cbec.jpg",
     "static/media/meesho-clone.png": "/static/media/meesho-clone.d68c35e2493bd3ad7b85.png",
     "static/media/coding.png": "/static/media/coding.534f5f5036132c7de25c.png",
     "static/media/ts.png": "/static/media/ts.7b64d9ca208b9c3f7055.png",
@@ -24,11 +24,11 @@
     "static/media/css3.svg": "/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
     "static/media/html-5.svg": "/static/media/html-5.c1bb84e022ca9d76984d4b943bd678fd.svg",
     "main.cc1ecb4f.css.map": "/static/css/main.cc1ecb4f.css.map",
-    "main.41424333.js.map": "/static/js/main.41424333.js.map",
+    "main.4b6cc2da.js.map": "/static/js/main.4b6cc2da.js.map",
     "787.a2bb20d5.chunk.js.map": "/static/js/787.a2bb20d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc1ecb4f.css",
-    "static/js/main.41424333.js"
+    "static/js/main.4b6cc2da.js"
   ]
 }
